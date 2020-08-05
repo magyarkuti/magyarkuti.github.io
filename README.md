@@ -18,4 +18,4 @@ If you are stil still interested but the language of the [front for alians of Ma
 I am a bit frightened, perhaps I survive the fall, but I am not sure, today :)
 
 ## My schedule:
-<iframe src="https://calendar.google.com/calendar/embed?src=q3p3rt597a1cdvf2ulafbdpbio%40group.calendar.google.com&ctz=Europe%2FBudapest" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=2&amp;bgcolor=%2333B679&amp;ctz=Europe%2FBudapest&amp;src=cTNwM3J0NTk3YTFjZHZmMnVsYWZiZHBiaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23882f00&amp;mode=WEEK&amp;showTitle=1&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;title=MGy&#39;s%20office%20calendar" style="border:solid 1px #777" width="1000" height="500" frameborder="0" scrolling="no"></iframe>
