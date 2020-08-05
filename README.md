@@ -6,9 +6,10 @@ See my [my wiki pages](http://146.110.110.35/mediawiki/index.php/Main_Page) and 
 You can find some information on the page of my [deperatment](http://web.uni-corvinus.hu/math/) and perhaps [here](https://www.uni-corvinus.hu/fooldal/egyetemunkrol/tanszekek/matematika-tanszek/).
 
 # Currently running projects
-1. Linear algebra book for my first year students. See [https://magyarkuti.github.io/linearalgebra/]https://magyarkuti.github.io/linearalgebra/
-2. Fall semester
-* Linear algebra, see above
-* Calculus paractice class
-* Auction theory
-* Functional Analysis
+* Linear algebra book for my first year students. See [https://magyarkuti.github.io/linearalgebra/](https://magyarkuti.github.io/linearalgebra/)
+* Teaching at fall semester
+** Linear algebra, see above
+** Calculus paractice class
+** Auction theory [https:/doi.org/10.14267/cb.2018k02](DOI:10.14267/cb.2018k02)
+** Functional Analysis
+I am a bit frightened, perhaps I survive the fall, but I am not sure, today :)
