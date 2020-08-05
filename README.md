@@ -8,11 +8,11 @@ These pages will talk Hungarian earlier or later mainly if my feeling is that th
 If you are stil still interested but the language of the [front for alians of Mars](https://en.wikipedia.org/wiki/The_Martians_(scientists)) is not your native language, forgive me or contact me.
 
 ## Currently running projects
-1. Linear algebra book for my first year students. See [https://magyarkuti.github.io/linearalgebra/](https://magyarkuti.github.io/linearalgebra/)
+1. Linear algebra book for my first year students. See [https://magyarkuti.github.io/linearalgebra/](https://magyarkuti.github.io/linearalgebra/).
 2. Teaching at fall semester of 2020
-  Linear algebra, see above
-  Calculus paractice class
-  Auction theory [DOI:10.14267/cb.2018k02](https:/doi.org/10.14267/cb.2018k02)
-  Functional Analysis
+  a. Linear algebra, see above;
+  b. Calculus paractice class;
+  c. Auction theory [DOI:10.14267/cb.2018k02](http://unipub.lib.uni-corvinus.hu/3651/);
+  d. Functional Analysis.
 
 I am a bit frightened, perhaps I survive the fall, but I am not sure, today :)
