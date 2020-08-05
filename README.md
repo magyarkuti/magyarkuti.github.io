@@ -16,7 +16,4 @@ If you are stil still interested but the language of the [front for alians of Ma
   d. Functional Analysis.
 
 I am a bit frightened for my next semester schedule. Perhaps I survive the fall, but I am not sure, today :)
-The exact time an the venue of my classes can be found in my [time table](https://calendar.google.com/calendar/embed?src=q3p3rt597a1cdvf2ulafbdpbio%40group.calendar.google.com&ctz=Europe%2FBudapest)
-
-## My schedule
-<iframe src="https://calendar.google.com/calendar/embed?height=500&amp;wkst=2&amp;bgcolor=%23616161&amp;ctz=Europe%2FBudapest&amp;src=cTNwM3J0NTk3YTFjZHZmMnVsYWZiZHBiaW9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23882f00&amp;mode=WEEK&amp;showTitle=1&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=1&amp;title=MGy&#39;s%20office%20calendar" style="border:solid 1px #777" width="1000" height="500" frameborder="0" scrolling="no"></iframe>
+The exact time an the venue of my classes can be found in my [time table](https://calendar.google.com/calendar/embed?src=q3p3rt597a1cdvf2ulafbdpbio%40group.calendar.google.com&ctz=Europe%2FBudapest).
