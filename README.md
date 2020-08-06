@@ -1,7 +1,7 @@
 ## About
 My goal is to migrate from [my old webpage](http://web.uni-corvinus.hu/magyarkuti/) to here.
 The reason is that the old links are out of service and the page is more than out fashioned.
-This page is seriously **under construction**. 
+This page is seriously *under construction*. 
 See my [my wiki pages](http://146.110.110.35/mediawiki/index.php/Main_Page) and my old webpage, if you are still interested.
 You can find some information on the page of my [Department](http://web.uni-corvinus.hu/math/) and perhaps [here](https://www.uni-corvinus.hu/fooldal/egyetemunkrol/tanszekek/matematika-tanszek/).
 These pages will talk Hungarian earlier or later mainly if my feeling is that the potential readers are Hungarian students. 
@@ -10,10 +10,10 @@ If you are stil still interested but the language of the [front for alians of Ma
 ## Running projects
 1. Linear algebra book for my first year students. See [https://magyarkuti.github.io/linearalgebra/](https://magyarkuti.github.io/linearalgebra/).
 2. Teaching at fall semester of 2020
-  a. Linear algebra, see above;
-  b. Calculus paractice class;
-  c. Auction theory [DOI:10.14267/cb.2018k02](http://unipub.lib.uni-corvinus.hu/3651/);
-  d. Functional Analysis;
+  a) Linear algebra, see above,
+  b) Calculus paractice class,
+  c) Auction theory [DOI:10.14267/cb.2018k02](http://unipub.lib.uni-corvinus.hu/3651/),
+  d) Functional Analysis.
 3. Associate editor of [Pure Mathematics and Application](https://content.sciendo.com/configurable/contentpage/journals$002fpuma$002fpuma-overview.xml?tab_body=overview).
 
 I am a bit frightened for my next semester schedule. Perhaps I survive the fall, but I am not sure, today. 😄
