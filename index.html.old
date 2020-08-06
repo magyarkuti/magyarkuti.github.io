@@ -138,7 +138,7 @@ body#bodycolor {
 <style>
  /* Style Definitions */
  table.MsoNormalTable
-	{mso-style-name:"Norm� t�l�at";
+	{mso-style-name:"Normï¿½ tï¿½lï¿½at";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	mso-style-noshow:yes;
@@ -150,7 +150,7 @@ body#bodycolor {
 	font-size:10.0pt;
 	font-family:"Times New Roman";}
 table.MsoTableGrid
-	{mso-style-name:"R�sos t�l�at";
+	{mso-style-name:"Rï¿½sos tï¿½lï¿½at";
 	mso-tstyle-rowband-size:0;
 	mso-tstyle-colband-size:0;
 	border:solid windowtext 1.0pt;
@@ -227,7 +227,7 @@ table.MsoTableGrid
   <p style='mso-element:frame;mso-element-frame-hspace:7.05pt;mso-element-wrap:
   around;mso-element-anchor-vertical:page;mso-element-anchor-horizontal:margin;
   mso-element-top:9.25pt;mso-height-rule:exactly'><b>Budapesti Corvinus
-  Egyetem, Matematika Tansz�k<br>
+  Egyetem, Matematika Tanszék<br>
   Department of Mathematics, Corvinus University of Budapest</b></p>
   </td>
  </tr>
@@ -266,7 +266,7 @@ Sorry for the redundancy and the lack of some information until the migration pr
 <table><tr><td>
 <h5>Off-line:</h5>
 <table>
-  <tr><td>208/B S�h�z</td></tr>
+  <tr><td>208/B Sóház</td></tr>
   <tr><td>Budapest, HUNGARY </td></tr>
   <tr><td>Snail-mail:</td></tr>
   <tr><td>Budapest 5.</td></tr>
