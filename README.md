@@ -9,11 +9,11 @@ If you are stil still interested but the language of the [front for alians of Ma
 
 ## Running projects
 1. Linear algebra book for my first year students. See [https://magyarkuti.github.io/linearalgebra/](https://magyarkuti.github.io/linearalgebra/).
-2. Teaching at fall semester of 2020
-  a) [Algebra 1.](https://magyarkuti.github.io/algebra-1/)
-  b) Calculus paractice class,
-  c) Auction theory [DOI:10.14267/cb.2018k02](http://unipub.lib.uni-corvinus.hu/3651/),
-  d) Functional Analysis.
+1. Teaching at fall semester of 2020
+   1. [Algebra 1.](https://magyarkuti.github.io/algebra-1/)
+   1. Calculus paractice class,
+   1. Auction theory [DOI:10.14267/cb.2018k02](http://unipub.lib.uni-corvinus.hu/3651/),
+   1. Functional Analysis.
 3. Associate editor of [Pure Mathematics and Application](https://content.sciendo.com/configurable/contentpage/journals$002fpuma$002fpuma-overview.xml?tab_body=overview).
 
 I am a bit frightened for my next semester schedule. Perhaps I survive the fall, but I am not sure, today. 😄
