@@ -18,3 +18,7 @@ If you are stil still interested but the language of the [front for alians of Ma
 
 I am a bit frightened for my next semester schedule. Perhaps I survive the fall, but I am not sure, today. 😄
 The time and the venue of my classes can be found in my [time table](https://calendar.google.com/calendar/embed?src=q3p3rt597a1cdvf2ulafbdpbio%40group.calendar.google.com&ctz=Europe%2FBudapest).
+
+#### Details
+- [Teaching](teaching.md)
+- Researching
