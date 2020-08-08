@@ -1,4 +1,4 @@
-## About
+### About
 My goal is to migrate from [my old webpage](http://web.uni-corvinus.hu/magyarkuti/) to here.
 The reason is that the old links are out of service and the page is more than out fashioned.
 This page is seriously *under construction*. 
@@ -7,7 +7,7 @@ You can find some information on the page of my [Department](http://web.uni-corv
 These pages will talk Hungarian earlier or later mainly if my feeling is that the potential readers are Hungarian students. 
 If you are stil still interested but the language of the [front for alians of Mars](https://en.wikipedia.org/wiki/The_Martians_(scientists)) is not your native language, forgive me or contact me. I prefer to contact.
 
-## Running projects
+### Running projects
 - Linear algebra book for my first year students. See [https://magyarkuti.github.io/linearalgebra/](https://magyarkuti.github.io/linearalgebra/).
 - Teaching at fall semester of 2020
   - [Algebra 1.](https://magyarkuti.github.io/algebra-1/)
@@ -19,6 +19,6 @@ If you are stil still interested but the language of the [front for alians of Ma
 I am a bit frightened for my next semester schedule. Perhaps I survive the fall, but I am not sure, today. 😄
 The time and the venue of my classes can be found in my [time table](https://calendar.google.com/calendar/embed?src=q3p3rt597a1cdvf2ulafbdpbio%40group.calendar.google.com&ctz=Europe%2FBudapest).
 
-#### Details
+### Details
 - [Teaching](teaching.md)
 - Researching
