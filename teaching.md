@@ -9,7 +9,7 @@ Bla, bla
 ### My course syllabi are as follows:
 #### Calculus
 #### Linear Algebra
-#### [Algebra 1](https://github.com/magyarkuti/algebra-1) and Algebra 2
+#### [Algebra 1](https://magyarkuti.github.io/algebra-1) and Algebra 2
 #### Analysis 1 and Analysis 2
 #### Auction Theory
 #### Measure Theory
