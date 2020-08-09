@@ -6,7 +6,7 @@ permalink: /teaching.html
 ## Some courses I tought
 
 ### My course syllabi are as follow:
-#### [Calculus](/claculus)
+#### [Calculus](/calculus)
 #### Linear Algebra
 #### [Algebra 1.](/algebra-1) and [Algebra 2.](/algebra-2)
 #### Analysis 1 and Analysis 2
