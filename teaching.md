@@ -3,13 +3,12 @@ title: "Teaching"
 excerpt: "Teaching."
 permalink: /teaching.html
 ---
-## Teaching
-Bla, bla
+## Some courses I tought
 
-### My course syllabi are as follows:
+### My course syllabi are as follow:
 #### Calculus
 #### Linear Algebra
-#### [Algebra 1](https://magyarkuti.github.io/algebra-1) and Algebra 2
+#### [Algebra 1.](/algebra-1) and [Algebra 2.](/algebra-2)
 #### Analysis 1 and Analysis 2
 #### Auction Theory
 #### Measure Theory
