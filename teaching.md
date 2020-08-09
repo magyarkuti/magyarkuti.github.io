@@ -11,10 +11,10 @@ My course syllabi are as follow:
 - Analysis
   - Analysis 1.,
   - Analysis 2.;
-- Auction Theory
-- [Calculus](/calculus)
-- Dynamic Programming
-- Functional Analysis
-- LaTeX
-- Linear Algebra
-- [Measure Theory](/mertekelmelet)
+- Auction Theory;
+- [Calculus](/calculus);
+- Dynamic Programming;
+- Functional Analysis;
+- LaTeX;
+- Linear Algebra;
+- [Measure Theory](/mertekelmelet).
