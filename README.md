@@ -17,7 +17,7 @@ If you are stil still interested but the language of the [front for alians of Ma
 - Associate editor of [Pure Mathematics and Application](https://content.sciendo.com/configurable/contentpage/journals$002fpuma$002fpuma-overview.xml?tab_body=overview).
 
 I am a bit frightened for my next semester schedule. Perhaps I survive the fall, but I am not sure, today. 😄
-The time and the venue of my classes can be found in my [time table](https://calendar.google.com/calendar/embed?src=q3p3rt597a1cdvf2ulafbdpbio%40group.calendar.google.com&ctz=Europe%2FBudapest).
+The time and the venue of my classes can be found in my [office calendar](https://calendar.google.com/calendar/embed?src=q3p3rt597a1cdvf2ulafbdpbio%40group.calendar.google.com&ctz=Europe%2FBudapest).
 
 ### Details
 - [Teaching](teaching.md)
