@@ -17,4 +17,5 @@ My course syllabi are as follow:
 - Functional Analysis;
 - LaTeX;
 - [Linear Algebra](/linear-algebra);
-- [Measure Theory](/mertekelmelet).
+- [Measure Theory](/mertekelmelet);
+- [Probability Theory](/probability).
