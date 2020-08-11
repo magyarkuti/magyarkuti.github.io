@@ -1,3 +1,4 @@
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 {% include head.html %}
 $$e^{i\varphi}=\cos\varphi + i\sin\varphi$$
 ### About
