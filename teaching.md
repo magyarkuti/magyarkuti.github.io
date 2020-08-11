@@ -16,5 +16,5 @@ My course syllabi are as follow:
 - Dynamic Programming;
 - Functional Analysis;
 - LaTeX;
-- Linear Algebra;
+- [Linear Algebra](/linear-algebra);
 - [Measure Theory](/mertekelmelet).
