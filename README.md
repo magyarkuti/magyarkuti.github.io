@@ -1,8 +1,7 @@
-<head>
+\<head\>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-</head>
+\</head\>
 {% include head.html %}
-
 $$e^{i\varphi}=\cos\varphi + i\sin\varphi$$
 ### About
 My goal is to migrate from [my old webpage](http://web.uni-corvinus.hu/magyarkuti/) to here.
