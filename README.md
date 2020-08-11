@@ -1,6 +1,5 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 {% include head.html %}
-$$e^{i\varphi}=\cos\varphi + i\sin\varphi$$
+$$e^{i\varphi}=\cos\varphi + i\sin\varphi\qquad\forall \varphi\in\mathbb{R}$$
 ### About
 My goal is to migrate from [my old webpage](http://web.uni-corvinus.hu/magyarkuti/) to here.
 The reason is that the old links are out of service and the page is more than out fashioned.
