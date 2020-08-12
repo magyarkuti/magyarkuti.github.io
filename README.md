@@ -1,7 +1,7 @@
 {% include head.html %}
 
 ### Flashback
-$$e^{i\varphi}=\cos\varphi + i\sin\varphi\qquad\forall \varphi\in\mathbb{R}$$ It is so beutifull. Thus we can write real mathematics using ``MARKDOWN`` syntax. 
+$$e^{i\varphi}=\cos\varphi + i\sin\varphi\quad\forall \varphi\in\mathbb{C}.$$ It is so beutifull. Thus we can write real mathematics using ``MARKDOWN`` syntax. 
 
 ### About
 My goal is to migrate from [my old webpage](http://web.uni-corvinus.hu/magyarkuti/) to here.
