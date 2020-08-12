@@ -1,8 +1,3 @@
----
-title: "Teaching"
-excerpt: "Teaching."
-permalink: /teaching.html
----
 {% include head.html %}
 ### Some courses I taught
 My course syllabi are as follow:
