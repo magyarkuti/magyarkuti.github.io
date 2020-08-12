@@ -1,5 +1,5 @@
 {% include head.html %}
-
+![MGy][logo]
 ### Flashback
 $$e^{i\varphi}=\cos\varphi + i\sin\varphi\quad\forall \varphi\in\mathbb{C}.$$ 
 It is so beutifull. 
@@ -31,3 +31,6 @@ The time and the venue of my classes can be found in my [office calendar](https:
 ### Details
 - [Teaching](teaching.md)
 - Researching
+
+[logo]:
+_includes/apple-touch-icon-152x152.png "MGy"
