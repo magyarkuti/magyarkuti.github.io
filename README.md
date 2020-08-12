@@ -1,7 +1,5 @@
 {% include head.html %}
 
-![MGy](favicon.ico)
-
 ### Flashback
 $$e^{i\varphi}=\cos\varphi + i\sin\varphi\quad\forall \varphi\in\mathbb{C}.$$ 
 It is so beutifull. 
