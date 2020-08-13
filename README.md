@@ -7,7 +7,7 @@ Thus we can write real mathematics using
 [*MARKDOWN*](https://medium.com/@taylorhxu/markdown-for-dummies-a24e982b8e85) 
 syntax. 
 
-![Raphael][http://web.uni-corvinus.hu/magyarkuti/raphael.jpg]
+![Raphael](http://web.uni-corvinus.hu/magyarkuti/raphael.jpg)
 
 ### About
 My goal is to migrate from [my old webpage](http://web.uni-corvinus.hu/magyarkuti/) to here.
