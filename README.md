@@ -8,7 +8,7 @@ Thus we can write real mathematics using
 syntax. 
 
 ![Raphael](http://web.uni-corvinus.hu/magyarkuti/raphael.jpg)
-(The school of Athens by Raphaell at 1509-1511.)
+(The school of Athens by Raphael. Approx. 1510.)
 
 ### About
 My goal is to migrate from [my old webpage](http://web.uni-corvinus.hu/magyarkuti/) to here.
