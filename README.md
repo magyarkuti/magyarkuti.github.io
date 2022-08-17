@@ -26,6 +26,7 @@ If you are stil still interested but the language of the [front for alians of Ma
   - [Algebra 1.](https://magyarkuti.github.io/algebra-1/)
   - Linear Algebra,
   - Functional Analysis.
+  - [PT70 conference](https://magyarkuti.github.io/pt70)
   - Associate editor of [Pure Mathematics and Application](https://sciendo.com/journal/PUMA).
 
 The time and the venue of my classes can be found in my [office calendar](https://calendar.google.com/calendar/embed?src=q3p3rt597a1cdvf2ulafbdpbio%40group.calendar.google.com&ctz=Europe%2FBudapest).
