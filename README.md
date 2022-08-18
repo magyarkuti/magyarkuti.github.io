@@ -12,12 +12,12 @@ syntax.
 
 ### About
 My goal is to migrate from [my old webpage](http://web.uni-corvinus.hu/magyarkuti/) to here.
-The reason is that the old links are out of service and the page is more than out fashioned.
-This page is seriously *under construction*. 
-See ~~[my wiki pages](http://146.110.110.35/mediawiki/index.php/Main_Page)~~ and my old webpage, if you are still interested.
-You can find some information on the page of my [Department](http://web.uni-corvinus.hu/math/) and perhaps [here](https://www.uni-corvinus.hu/fooldal/egyetemunkrol/tanszekek/matematika-tanszek/).
+The reason is that some of the old links are out of service and the page is more than out fashioned.
+The status of this web site is seriously *under construction*. 
+Go to ~~[my wiki pages](http://146.110.110.35/mediawiki/index.php/Main_Page)~~ and my old webpage.
+Perhaps you can find some information on the page of my [Department](http://web.uni-corvinus.hu/math/) and perhaps [here](https://www.uni-corvinus.hu/fooldal/egyetemunkrol/tanszekek/matematika-tanszek/).
 
-Earlier or later when my feeling is that the potential readers are Hungarian students these pages switch to Hungarian.
+Earlier or later, when my feeling is that the potential readers are Hungarian students, these pages switch to Hungarian.
 If you are stil still interested but the language of the [front for alians of Mars](https://en.wikipedia.org/wiki/The_Martians_(scientists)) is not your native language, forgive me or contact me. I prefer to contact.
 
 ### Running projects
