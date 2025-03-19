@@ -9,7 +9,7 @@ My course syllabi are as follow:
   - Analysis 2.;
 - Auction Theory;
 - [Calculus](/calculus);
-- Dynamic Programming;
+- [Dynamic Programming](/dinamikusprogramozas);
 - Functional Analysis;
 - LaTeX;
 - [Linear Algebra](/linear-algebra);
