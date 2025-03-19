@@ -22,8 +22,8 @@ If you are stil still interested but the language of the [front for alians of Ma
 
 ### Running projects
 - Linear algebra book for my first year students. See [https://magyarkuti.github.io/linearalgebra/](https://magyarkuti.github.io/linearalgebra/).
-- Teaching at fall semester of 2022
-  - [Algebra 1.](https://magyarkuti.github.io/algebra-1/)
+- Teaching at spring semester of 2025
+  - [Algebra 2.](https://magyarkuti.github.io/algebra-2/)
   - Linear Algebra,
   - Auction Theory [DOI:10.14267/cb.2018k02](http://unipub.lib.uni-corvinus.hu/3651/),
   - Complex Analysis.
