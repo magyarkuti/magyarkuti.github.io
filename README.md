@@ -24,9 +24,8 @@ If you are stil still interested but the language of the [front for alians of Ma
 - Linear algebra book for my first year students. See [https://magyarkuti.github.io/linearalgebra/](https://magyarkuti.github.io/linearalgebra/).
 - Teaching at spring semester of 2025
   - [Algebra 2.](https://magyarkuti.github.io/algebra-2/)
-  - Linear Algebra,
   - Auction Theory [DOI:10.14267/cb.2018k02](http://unipub.lib.uni-corvinus.hu/3651/),
-  - Complex Analysis.
+  - Complex Analysis
 - [PT70 conference](https://magyarkuti.github.io/pt70)
 - Associate editor of [Pure Mathematics and Application](https://sciendo.com/journal/PUMA).
 
@@ -50,5 +49,5 @@ The time and the venue of my classes can be found in my [office calendar](https:
     </a>
     
 <!---
-  - Auction theory [DOI:10.14267/cb.2018k02](http://unipub.lib.uni-corvinus.hu/3651/),
+  
 -->
